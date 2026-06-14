@@ -48,7 +48,7 @@ A professional business website with service and contact sections.
 ## Live Demo
 
 Visit the portfolio:
-[Add Your GitHub Pages Link Here]
+https://chikky09.github.io/Desri_Portfolio_New/
 
 ## Author
 
